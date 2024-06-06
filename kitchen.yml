@@ -17,7 +17,7 @@ verifier:
 platforms:
   - name: test
     driver:
-      image: dafyddj/tmp-renovate:local-test
+      image: dafyddj/tmp-reno-no-platform:local-test
       platform: debian
 
 suites:

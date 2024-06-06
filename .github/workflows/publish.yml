@@ -13,7 +13,7 @@ jobs:
       packages: write
     with:
       image-namespace: dafyddj
-      image-repo: tmp-renovate
+      image-repo: tmp-reno-no-platform
       labels: org.opencontainers.image.authors=DJ
     secrets:
       registry-password: ${{ secrets.GITHUB_TOKEN }}
