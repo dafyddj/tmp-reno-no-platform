@@ -35,7 +35,7 @@
         "(?<currentValue>\\S+)\\n"
       ],
       "datasourceTemplate": "github-tags",
-      "depNameTemplate": "dafyddj/tmp-renovate",
+      "depNameTemplate": "dafyddj/tmp-reno-no-platform",
     },
   ],
   "git-submodules": {
